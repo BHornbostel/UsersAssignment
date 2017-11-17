@@ -1,0 +1,13 @@
+table{
+    border: solid black 1px;
+}
+table th{
+    padding: 5px 10px 5px 10px;
+}
+form{
+    width: 200 px;
+    height: 400 px;
+}
+form p{
+    display:block;
+}
